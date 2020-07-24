@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dac5c099ee6cef044acbc9eb8a4d6f73
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - invincible: {fileID: 1243166679854874, guid: b616d93ccf37b7b49aecfff009c35901,
+      type: 2}
+  - powerUp: {fileID: 1113444779898146, guid: e8378e9065c324a489712f0bded7e044, type: 2}
+  - doubleJump: {fileID: 1811056320079256, guid: 2bf8867f9ec6a23468dfee1bb8e14d92,
+      type: 2}
+  - coin: {fileID: 1557076675217564, guid: 206e65fc8f34e204da2d3002c0acf9b8, type: 2}
+  - healthKit: {fileID: 1790621438708340, guid: c6c569672f0cf4346ac2efc8167077c1,
+      type: 2}
+  - magicCard: {fileID: 1188006467473466, guid: aec4aee5c8911ee46a7fcc29d9af542e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

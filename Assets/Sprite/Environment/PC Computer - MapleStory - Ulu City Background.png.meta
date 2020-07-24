@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 08922c5734d5b0f4fb690fe2f2be6ee7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Ulu City Background_0
+    21300002: PC Computer - MapleStory - Ulu City Background_1
+    21300004: PC Computer - MapleStory - Ulu City Background_2
+    21300006: PC Computer - MapleStory - Ulu City Background_3
+    21300008: PC Computer - MapleStory - Ulu City Background_4
+    21300010: PC Computer - MapleStory - Ulu City Background_5
+    21300012: PC Computer - MapleStory - Ulu City Background_6
+    21300014: PC Computer - MapleStory - Ulu City Background_7
+    21300016: PC Computer - MapleStory - Ulu City Background_8
+    21300018: PC Computer - MapleStory - Ulu City Background_9
+    21300020: PC Computer - MapleStory - Ulu City Background_10
+    21300022: PC Computer - MapleStory - Ulu City Background_11
+    21300024: PC Computer - MapleStory - Ulu City Background_12
+    21300026: PC Computer - MapleStory - Ulu City Background_13
+    21300028: PC Computer - MapleStory - Ulu City Background_14
+    21300030: PC Computer - MapleStory - Ulu City Background_15
+    21300032: PC Computer - MapleStory - Ulu City Background_16
+    21300034: PC Computer - MapleStory - Ulu City Background_17
+    21300036: PC Computer - MapleStory - Ulu City Background_18
+    21300038: PC Computer - MapleStory - Ulu City Background_19
+    21300040: PC Computer - MapleStory - Ulu City Background_20
+    21300042: PC Computer - MapleStory - Ulu City Background_21
+    21300044: PC Computer - MapleStory - Ulu City Background_22
+    21300046: PC Computer - MapleStory - Ulu City Background_23
+    21300048: PC Computer - MapleStory - Ulu City Background_24
+    21300050: PC Computer - MapleStory - Ulu City Background_25
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4245
+        width: 782
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f15e26038d7146946a086e20666d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 3522
+        width: 86
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93055634048796a43a0e17f71d0e4795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4097
+        width: 358
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccd10b93928f534f8fccec86a395dc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 4067
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6477984c1598b42a6175eca5eded0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3982
+        width: 318
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c19177de67365147aabb7428acd7549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3738
+        width: 567
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b7bd6e94495f046b344774f789aa3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3430
+        width: 410
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bf505511a0a3945848513787cb36d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 3438
+        width: 233
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70e6bb274fffe54689a5bae1e910c92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3218
+        width: 282
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3e1b4018177e446aab0733270f82bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3136
+        width: 488
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cef38772789e7545afdf0edef935c4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2545
+        width: 674
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4146699ebd90db4a9ceaa64f23cc0bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2094
+        width: 316
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e8ffed600073e4195166fdc690cb5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2094
+        width: 183
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67d78a15e4c600439a47e1743c3a7aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_13
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2094
+        width: 214
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663eba5f245b404ea95b1c129b42556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1904
+        width: 501
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2df94650fa66a04e95fe52a4a77a047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1909
+        width: 208
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5ff12711d67a44fbf84f8f25783f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1716
+        width: 561
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c912bea82b424298897368f7d5d31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1498
+        width: 426
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d744fed613e744ab5edc6945ed3f82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1297
+        width: 666
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f78ce2abab4fc6478d84e7c458ec0fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1134
+        width: 518
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec16df3f6f373b748b167a97f7e63fa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 799
+        width: 348
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6483e4f26bd9e47b1e2e96a08bc203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_21
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 799
+        width: 436
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880a6d960d2ea9643affe4b00082aff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 563
+        width: 376
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05527fb915f48944b76896fc06369c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 10
+        width: 340
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d4badeb66f66d458dbb22f74fec234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 291
+        width: 485
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c218e66605f3e468ac0fb33cf5441d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Ulu City Background_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 8
+        width: 586
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7422c8fd24734c14f8f71675f0b9323a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6692f2ad32ecf3748b3565b1e8346db9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

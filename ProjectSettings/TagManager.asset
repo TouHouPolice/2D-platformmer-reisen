@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BackGroundMiddle
+  - BackGround
+  - BackGroundDeep
+  - MonsterAir
+  - MonsterGround
+  - Destination
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Monster
+  - Bullet
+  - Belt
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: VeryBack
+    uniqueID: 1326907455
+    locked: 0
+  - name: Back
+    uniqueID: 2617109887
+    locked: 0
+  - name: Middle
+    uniqueID: 267139701
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 945869411
+    locked: 0
+  - name: BeforePlayer
+    uniqueID: 2684411829
+    locked: 0
+  - name: VeryFront
+    uniqueID: 3530929137
+    locked: 0
